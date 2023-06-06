@@ -1,0 +1,10 @@
+* map-set
+
+Implementation of a set-like data structure with constant time
+addition, removal, and random selection.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/stylewarning/map-set.git |
+| commit  | 62c23b6                                         |
+| systems | map-set                                         |
+|---------+-------------------------------------------------|
